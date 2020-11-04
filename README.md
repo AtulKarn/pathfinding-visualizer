@@ -1,4 +1,4 @@
-# pathfinding-visualizer
+# Pathfinding-Visualizer
 Visualize A* and Dijkstra's Algorithm on a GUI interface built using QT in C++.
 
 Select the algorithm, the heuristic function, put random walls, change the speed of animation and find out the time taken to complete the algorithm in milliseconds
